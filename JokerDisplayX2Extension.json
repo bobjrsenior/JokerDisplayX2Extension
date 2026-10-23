@@ -1,0 +1,14 @@
+{
+ "id": "jdX2Extension",
+ "name": "JD X2 Extension",
+ "display_name": "JD X2 Extension",
+ "author": ["bobjrsenior"],
+ "description": "Extends Joker Display to display multiple of 2 for xmult",
+ "prefix": "bob_jdx2e",
+ "main_file": "JokerDisplayX2Extension.lua",
+ "priority": 0,
+ "badge_colour": "AABBCC",
+ "badge_text_colour": "CCBBAA",
+ "version": "0.0.1",
+ "dependencies": ["Steamodded (>=26.1002.0)", "JokerDisplay (>=2.0.6)"]
+}
