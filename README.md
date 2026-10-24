@@ -18,7 +18,7 @@ Joker Display: https://github.com/nh6574/JokerDisplay#installation
 ## Usage
 
 Enable from the mod configuration settings.
-Whenever a Joker has an XMULT of at least 2, it will be replaces by it's approximate log2 value. In order to avoid confusing fractions, it will display to the nearest 0.25. So 3 XMULT becomes X2^1.5 as an example.
+Whenever a Joker has an XMULT of at least 2, it will be replaced by it's approximate log2 value. In order to avoid confusing fractions, it will display to the nearest 0.25. So 3 XMULT becomes X2^1.5 as an example.
 
 Examples:
 
@@ -28,3 +28,13 @@ X4->X2^2
 X1024->X2^10
 X3->X1.5
 ```
+
+Screenshots:
+
+![photochad 2^4 and brainstorm 2^4](screenshots/photochad_4_brainstorm_4.jpg)
+
+![photochad 2^6 and ancient 2^7.5](screenshots/photo_6_brainstorm_7-5.jpg)
+
+![photochad 2^4, ancient 2^6.25, and brainstorm 2^6.25](screenshots/photo_4_ancient_6-25_brainstorm_6-25.jpg)
+
+![in-game mod configuration menu](screenshots/mod_config.jpg)
